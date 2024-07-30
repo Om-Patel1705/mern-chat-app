@@ -19,7 +19,7 @@ export const messages = [
     sender: {
       pic: "https://icon-library.com/images/anonymous-avatar-icon/anonymous-avatar-icon-25.jpg",
       _id: "2",
-      name: "John Doe",
+      name: "JohnDoe",
     },
     content: "Yo Wassup!",
     chat: "60a3de1ff381d830b884998d",
